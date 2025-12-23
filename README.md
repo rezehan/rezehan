@@ -4,7 +4,7 @@ I'm a fullstack web developer based in Indonesia, currently studying in PNUP.
 
 ## 🛠 Tech Stack
 
-- **Backend Framework**: Express (JS & TS). 
+- **Backend Framework**: Express (JS & TS), Laravel. 
 - **Frontend Framework**: Vue3, React, and Svelte.  
 - **Development Tools**: Ubuntu, Git, VS Code.
 - **Programming Language**: PHP, Javascript, Python, Java.
