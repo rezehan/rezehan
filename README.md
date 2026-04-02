@@ -11,6 +11,8 @@ I'm a fullstack web developer based in Indonesia, currently studying in PNUP.
 
 ## 🧠 Currently Learning
 - Deep learning web Development
+- Cloud Computing
+- Artificial Intelligence
 
 ## 📫 Let's Connect
 
