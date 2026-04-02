@@ -10,14 +10,15 @@ I'm a fullstack web developer based in Indonesia, currently studying in PNUP.
 - **Programming Language**: PHP, Javascript, Python, Java.
 
 ## 🧠 Currently Learning
-- Deep learning web Development
+- Web Development
 - Cloud Computing
 - Artificial Intelligence
+- Internet of Things
 
 ## 📫 Let's Connect
 
 - 💼 [Instagram](https://instagram.com/renzearch)
-- 📬 Email: adraihan94@gmail.com
+- 📬 [Email]: adraihan94@gmail.com
 
 ---
 
