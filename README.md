@@ -5,7 +5,7 @@ I'm a Back-end Developer and Embedded Systems first-year Computer Engineering st
 ## 🛠 Tech Stack
 
 - **Backend Framework**: Express (JS & TS), Laravel. 
-- **Frontend Framework**: Vue3, React, and Svelte.  
+- **Frontend Framework**: Vue3 
 - **Development Tools**: Ubuntu, Git, VS Code.
 - **Programming Language**: PHP, Javascript, Python, Java.
 
