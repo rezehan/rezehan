@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&color=27F724&width=435&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Raihan+Abdillah.)](https://git.io/typing-svg)
 
-I'm a fullstack web developer based in Indonesia, currently studying in PNUP.
+I'm a Back-End Developer and embedded systems first-year computer engineering student who is passionate about technology, learning, and building real-world projects. I'm currently studying artificial intelligence and integrating it into systems.
 
 ## 🛠 Tech Stack
 
