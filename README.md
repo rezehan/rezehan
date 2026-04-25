@@ -7,7 +7,7 @@ I'm a Back-end Developer and Embedded Systems first-year Computer Engineering st
 - **Backend Framework**: Express (JS & TS), Laravel. 
 - **Frontend Framework**: Vue3 
 - **Development Tools**: Ubuntu, Git, VS Code.
-- **Programming Language**: PHP, Javascript, Python, Java.
+- **Programming Language**: PHP, Javascript, Python, Java, C/C++.
 
 ## 🧠 Currently Learning
 - Web Development
